@@ -1,0 +1,23 @@
+body{
+	text-align:center;
+}
+#box{
+	
+	display:block;
+	text-align:center;
+	border:5px blue solid;
+	background:red;
+	width:100px;
+	height:70px;
+	margin:400px auto;
+	padding:5px;
+	-webkit-transition:transform 2s, opacity 2s, width 2s, height 2s, background 2s;
+}
+#box:hover{
+	-webkit-transform:rotate(360deg);
+	opacity:4;
+	width:200px;
+	height:150px;
+	background:yellow;
+	
+}

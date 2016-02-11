@@ -1,0 +1,32 @@
+#mommy{
+	border:2px solid blue;
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	-webkit-box-direction:reverse;
+}
+
+#kite1{
+	background:green;
+	border:black 1px solid;
+	padding:20px;
+	margin:10px;
+}
+#kite2{
+	background:red;
+	border:black 1px solid;
+	padding:20px;
+	margin:10px;
+}
+#kite3{
+	background:yellow;
+	border:black 1px solid;
+	padding:20px;
+	margin:10px;
+}
+#kite4{
+	background:orange;
+	border:black 1px solid;
+	padding:20px;
+	margin:10px;
+}
+
